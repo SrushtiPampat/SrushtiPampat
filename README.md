@@ -1,16 +1,23 @@
-## Hi there 👋
+# 👋 Hi, I'm Srushti Pampat
 
-<!--
-**SrushtiPampat/SrushtiPampat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Student at VJTI Mumbai
 
-Here are some ideas to get you started:
+## About Me
+- Learning DSA in C++
+- Exploring AI & Machine Learning
+- Interested in Full-Stack Development
+- Building projects and improving problem-solving skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+- C++
+- Python
+- Git & GitHub
+- HTML, CSS
+
+## Current Focus
+- DSA and Competitive Programming
+- Machine Learning
+- Open Source Contributions
+
+## Connect With Me
+- LinkedIn: https://www.linkedin.com/in/srushti-pampat-976b4a3a2/
